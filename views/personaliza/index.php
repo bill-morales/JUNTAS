@@ -16,8 +16,8 @@
             background-color: #df02f1;
             height: 150px;
             display:flex;
-    justify-content: center;
-    align-items: center;
+            justify-content: center;
+            align-items: center;
         }
         .underline{
             text-decoration:underline;
